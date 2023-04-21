@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Quản Lý Nhà Hàng</string>
+    <string name="facebook_app_id">129585359048712</string> <string name="fb_login_protocol_scheme">fb129585359048712</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
